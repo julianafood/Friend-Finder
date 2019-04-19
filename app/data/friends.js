@@ -1,7 +1,7 @@
 var friendArray = [
     {
         "name":"Rachel",
-        "photo":"https://vignette.wikia.nocookie.net/friends/images/e/e3/Rachel-Season-5.png/revision/latest/scale-to-width-down/176?cb=20180127172230"
+        "photo":"https://vignette.wikia.nocookie.net/friends/images/e/e3/Rachel-Season-5.png/revision/latest/scale-to-width-down/176?cb=20180127172230",
         "scores":[
             5,
             1,
@@ -14,10 +14,10 @@ var friendArray = [
             4,
             1
           ]
-      }
+      },
       {
         "name":"Chandler",
-        "photo":"https://pixel.nymag.com/imgs/daily/vulture/2017/03/30/30-chandler-bing.w330.h330.jpg"
+        "photo":"https://pixel.nymag.com/imgs/daily/vulture/2017/03/30/30-chandler-bing.w330.h330.jpg",
         "scores":[
             4,
             3,
@@ -30,10 +30,10 @@ var friendArray = [
             1,
             5
           ]
-      }
+      },
       {
         "name":"Ross",
-        "photo":"https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/David_Schwimmer_as_Ross_Geller.jpg/220px-David_Schwimmer_as_Ross_Geller.jpg"
+        "photo":"https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/David_Schwimmer_as_Ross_Geller.jpg/220px-David_Schwimmer_as_Ross_Geller.jpg",
         "scores":[
             1,
             2,
@@ -46,10 +46,10 @@ var friendArray = [
             2,
             4
           ]
-      }
+      },
       {
         "name":"Monica",
-        "photo":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-friends-courteney-cox.jpg":
+        "photo":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-friends-courteney-cox.jpg",
         "scores":[
             4,
             2,
@@ -62,10 +62,10 @@ var friendArray = [
             3,
             5
           ]
-      }
+      },
       {
         "name":"Joey",
-        "photo":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj0sueygtvhAhUwqlkKHXrTBB4QjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJoey_Tribbiani&psig=AOvVaw1jBGOIks-riFuCodpFama2&ust=1555724193050819"
+        "photo":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj0sueygtvhAhUwqlkKHXrTBB4QjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJoey_Tribbiani&psig=AOvVaw1jBGOIks-riFuCodpFama2&ust=1555724193050819",
         "scores":[
             5,
             5,
@@ -78,9 +78,9 @@ var friendArray = [
             4,
             5
           ]
-      } {
+      }, {
         "name":"Pheobe",
-        "photo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Friendsphoebe.jpg/220px-Friendsphoebe.jpg"
+        "photo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Friendsphoebe.jpg/220px-Friendsphoebe.jpg",
         "scores":[
             2,
             3,
@@ -96,5 +96,5 @@ var friendArray = [
       }
   ];
   
-  module.exports = tableArray;
+  module.exports = friendArray;
   
