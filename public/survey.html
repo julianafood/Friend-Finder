@@ -190,8 +190,6 @@
                
                 $.post("/api/friends", newFriend)
                     .done(function (data) {
-                        $('#userMatchName').html(data.matchName);
-                        $("#userMatchImage").attr("src", "./images/" + data.matchImage);
                         $('#modal').modal('open');
                     });
             });
